@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BookInventory</string>
+    <string name="book_overview">Book Overview</string>
+    <string name="hint_book_name">Book Name</string>
+    <string name="hint_book_price">Book Price</string>
+    <string name="book_quantity">Book Qty</string>
+    <string name="hint_book_quantity">Number of Books</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone">Supplier Phone</string>
+    <string name="hint_supplier_phone">Phone of supplier</string>
+    <string name="hint_supplier_name">Name of supplier</string>
+    <string name="editor_activity_title_new_book">New Book</string>
+    <string name="action_insert_dummy_data">Insert Dummy Book Data</string>
+    <string name="action_delete_all_entries">Delete All Data</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="total_rows_toast_message">Number of rows in books table are </string>
+    <string name="nodummyadd_toast_message">Could not add dummy data, maybe because of same id</string>
+    <string name="successful_row_insert">Row Id inserted successfully is </string>
+    <string name="unsuccessful_insert">Some problem with row insertion</string>
+    <string name="successful_insert">Book was successfully inserted</string>
+    <string name="sale_button">Sale</string>
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="editor_activity_title_edit_book">Edit Book Details</string>
+    <string name="editor_activity_title_add_book">Add Book Details</string>
+    <string name="editor_update_book_failed">Update of a book Failed!</string>
+    <string name="editor_update_book_successful">Update of a book successful!</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting Book</string>
+    <string name="delete_dialog_msg">Delete this Book?</string>
+    <string name="delete_dialog_msg_all">Delete All the Books?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="decrease_quantity">-</string>
+    <string name="increase_quantity">+</string>
+    <string name="neg_quantity_error_msg">Quantity of books cannot be reduced less than zero</string>
+    <string name="order_button">Order Books</string>
+    <string name="null_value_increase">Cannot increment on null value</string>
+    <string name="null_value_decrement">Cannot decrement on null value</string>
+    <string name="no_empty_field">No field can be left empty</string>
+    <string name="need_data_to_save">In order to save, all fields must be filled</string>
+
+</resources>
